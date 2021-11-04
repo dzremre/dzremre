@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emredz/)](https://www.linkedin.com/in/emredz/)
 
-- 💻 I’m currently working on Python and Javascript and I am interested in new technologies.
+- 💻 I’m currently working on Python and Javascript.
 - 🙌 I enjoy meeting developers and talking about development.
 
 ![Cat](https://github.githubassets.com/images/mona-whisper.gif)
