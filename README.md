@@ -1,7 +1,5 @@
 # Hi 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emredz/)](https://www.linkedin.com/in/emredz/)
-
 - 💻 I’m currently working on Python.
 - 🙌 I enjoy meeting developers and talking about development.
 
